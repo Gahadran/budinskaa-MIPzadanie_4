@@ -1,5 +1,3 @@
-﻿Snehulienka: Zadanie (PDF) Tu si môžete skúšať projekt. Vašou úlohou je implementovať požadované funkcie, na vyskúšanie si spravte vlastný main, v ktorom môžete čítať údaje zo vstupu (ktorý si zadáte aký chcete). Pri prezentácií vášho riešenia by ste mali umožniť cvičiacenu ľahko zadať a vyskúšať aj iný vstup.
-
 // projekt1.c -- Projekt1 - Snehulienka
 // Alzbeta Budinska, 2.3.2017 11:25:16
 
